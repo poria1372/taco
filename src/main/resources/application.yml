@@ -1,0 +1,16 @@
+#
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/myjava
+#    username: root
+#    password: 9776Pl_GSP
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto:create
+#server:
+#  port: 8080
+#
+##  087cfc6a-027d-44bc-95d7-cbb3a798a1ea
+#
+#
